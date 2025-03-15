@@ -1,5 +1,6 @@
 # PlanxWallet_BOT
 Auto clear task &amp; claim every 3 hours
+Support Multi Accounts
 
 ## 🚀 How to use?
 Input token bearer on token.txt per line
