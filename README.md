@@ -4,7 +4,7 @@ Auto clear task &amp; claim every 3 hours
 ## 🚀 How to use?
 Input token bearer on token.txt per line
 
-## Support Multi Acocunt
+## Support Multi Account
 
 ### **1. Clone Repository**
 
